@@ -1,0 +1,14 @@
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\Week6StingsAndArrays\bin\Debug\net6.0\Week6StingsAndArrays.exe
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\Week6StingsAndArrays\bin\Debug\net6.0\Week6StingsAndArrays.deps.json
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\Week6StingsAndArrays\bin\Debug\net6.0\Week6StingsAndArrays.runtimeconfig.json
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\Week6StingsAndArrays\bin\Debug\net6.0\Week6StingsAndArrays.dll
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\Week6StingsAndArrays\bin\Debug\net6.0\Week6StingsAndArrays.pdb
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\Week6StingsAndArrays\obj\Debug\net6.0\Week6StingsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\Week6StingsAndArrays\obj\Debug\net6.0\Week6StingsAndArrays.AssemblyInfoInputs.cache
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\Week6StingsAndArrays\obj\Debug\net6.0\Week6StingsAndArrays.AssemblyInfo.cs
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\Week6StingsAndArrays\obj\Debug\net6.0\Week6StingsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\Week6StingsAndArrays\obj\Debug\net6.0\Week6StingsAndArrays.dll
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\Week6StingsAndArrays\obj\Debug\net6.0\refint\Week6StingsAndArrays.dll
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\Week6StingsAndArrays\obj\Debug\net6.0\Week6StingsAndArrays.pdb
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\Week6StingsAndArrays\obj\Debug\net6.0\Week6StingsAndArrays.genruntimeconfig.cache
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\Week6StingsAndArrays\obj\Debug\net6.0\ref\Week6StingsAndArrays.dll

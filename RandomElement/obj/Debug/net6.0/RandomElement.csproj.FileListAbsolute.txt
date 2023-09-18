@@ -1,0 +1,14 @@
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\RandomElement\bin\Debug\net6.0\RandomElement.exe
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\RandomElement\bin\Debug\net6.0\RandomElement.deps.json
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\RandomElement\bin\Debug\net6.0\RandomElement.runtimeconfig.json
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\RandomElement\bin\Debug\net6.0\RandomElement.dll
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\RandomElement\bin\Debug\net6.0\RandomElement.pdb
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\RandomElement\obj\Debug\net6.0\RandomElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\RandomElement\obj\Debug\net6.0\RandomElement.AssemblyInfoInputs.cache
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\RandomElement\obj\Debug\net6.0\RandomElement.AssemblyInfo.cs
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\RandomElement\obj\Debug\net6.0\RandomElement.csproj.CoreCompileInputs.cache
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\RandomElement\obj\Debug\net6.0\RandomElement.dll
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\RandomElement\obj\Debug\net6.0\refint\RandomElement.dll
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\RandomElement\obj\Debug\net6.0\RandomElement.pdb
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\RandomElement\obj\Debug\net6.0\RandomElement.genruntimeconfig.cache
+C:\Users\Marge Käige\source\repos\Week6StingsAndArrays\RandomElement\obj\Debug\net6.0\ref\RandomElement.dll
